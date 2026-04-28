@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://inkythuatso.com/uploads/images/2021/12/logo-dai-hoc-thuy-loi-inkythuatso-converted-01-23-08-44-48.jpg" width="180">
 
-# 🌐 CSE381 • Mạng Máy Tính
+# 🌐 CSE489 • Mạng Máy Tính
 ### 🛰️ Connectivity – Protocols – Security • Systems Networking
 
 <p>
@@ -20,21 +20,11 @@
 
 - 👤 **Họ tên:** <b>Nguyễn Thuận Đạt</b>
 - 🏫 **Lớp:** 66ANM1
-- 📘 **Môn học:** Mạng máy tính (CSE381)
+- 📘 **Môn học:** Mạng máy tính (CSE489)
 - 👨‍🏫 **Giảng viên hướng dẫn:** Thầy Võ Tá Hoàng
 </p>
 
 </div>
-
----
-
-## 🧑‍🎓 Thông tin sinh viên
-
-- 👤 **Họ tên:** <b>Nguyễn Thuận Đạt</b>
-- 🏫 **Lớp:** 66ANM1
-- 📘 **Môn học:** Mạng máy tính (CSE381)
-- 👨‍🏫 **Giảng viên hướng dẫn:** Thầy Võ Tá Hoàng
-- 🏛️ **Trường:** Đại học Thủy Lợi
 
 ---
 
