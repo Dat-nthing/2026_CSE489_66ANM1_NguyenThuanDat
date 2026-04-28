@@ -21,7 +21,19 @@
 - 👤 **Họ tên:** <b>Nguyễn Thuận Đạt</b>
 - 🏫 **Lớp:** 66ANM1
 - 📘 **Môn học:** Mạng máy tính (CSE381)
-- 👨‍🏫 **Giảng viên hướng dẫn:** Thầy Võ Tá 
+- 👨‍🏫 **Giảng viên hướng dẫn:** Thầy Võ Tá Hoàng
+</p>
+
+</div>
+
+---
+
+## 🧑‍🎓 Thông tin sinh viên
+
+- 👤 **Họ tên:** <b>Nguyễn Thuận Đạt</b>
+- 🏫 **Lớp:** 66ANM1
+- 📘 **Môn học:** Mạng máy tính (CSE381)
+- 👨‍🏫 **Giảng viên hướng dẫn:** Thầy Võ Tá Hoàng
 - 🏛️ **Trường:** Đại học Thủy Lợi
 
 ---
@@ -63,4 +75,4 @@ Repo này lưu trữ các bài thực hành, sơ đồ thiết kế mạng và c
 ## 📫 Liên hệ
 
 - Email: thuandatne@gmail.com
-- GitHub: [Link GitHub của bạn]
+- GitHub: https://github.com/Dat-nthing/2026_CSE489_66ANM1_NguyenThuanDat
